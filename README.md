@@ -14,7 +14,7 @@ Model phase: With enough pictures, the Azure Custom Vision AI service can then e
 
 Deployment phase: For the time being the data would be deployed using Jupyter Notebooks. Of course, the AI could still miss out or make mistakes on specific objects, therefore it would be good to get manual feedback from the user where they specify the location and the type of object when something is wrong it is so that the model can continuously learn and grow as time goes on, continuing the machine learning life cycle. 
 
-**Principiles:**
+**Principles:**
 Privacy and security - The project will delete all images once taken
 Reliability and safety - Product is very safe and reliable, only detects trash 
 Transparency - Will be very clear on the purpose of project, and what is done with obatained information and data 
