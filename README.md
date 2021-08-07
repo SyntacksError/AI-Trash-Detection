@@ -1,6 +1,5 @@
 **Idea:** <br />  
-Climate change is one of the biggest issues that we as a human race face, and one of the biggest contributors to this problem is rubbish. Unfortunately, due to the lack of proper recycling, waste often gets piled up in landfills, leading to toxins and greenhouse gas emissions. One way that we can help curb this problem is making sure we dispose of our waste properly. 
-
+Climate change is one of the biggest issues that we as a human race face, and one of the biggest contributors to this problem is rubbish. Unfortunately, due to the lack of proper recycling, waste often gets piled up in landfills, leading to toxins and greenhouse gas emissions. One way that we can help curb this problem is making sure we dispose of our waste properly. <br />  
 In Victoria where I’m from rubbish is separated into three different bins: recyclables, waste, and organic. However, there are some countries such as Japan who have taken a far tougher stance on recycling, having to split their waste into 10 or more different categories. This is where my idea comes in, an AI that is able to visually detect and differentiate the different types of rubbish there are, and understand which bins they have to be placed in. This is handy, as learning how to properly differentiate your trash can be an arduous task, a task which instead could be automated easily using artificial intelligence. 
 To keep it simple I am developing an AI that will just detect and sort rubbish into the three categories that are available in Victoria using just a picture of the trash. 
 
