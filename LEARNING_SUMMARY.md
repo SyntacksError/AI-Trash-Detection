@@ -1,5 +1,5 @@
-Scale AI in your organisation
-•	Learned how to apply best practises for innovation in organisations, evaluate and prioritise AI investments, and also how to establish AI-related roles and responsibilities.
+Scale AI in your organisation<br />
+•	Learned how to apply best practises for innovation in organisations, evaluate and prioritise AI investments, and also how to establish AI-related roles and responsibilities.<br />
 •	Learned what MLOps is. Am able to now identify the different steps of the machine learning lifecycle, describe how to create and manage machine learning models using MLOps processes, and also how to articulate processes to monitor models and respond to incidents
 
 Use visual tools to create machine learning models with Azure Machine Learning 
